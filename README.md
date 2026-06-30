@@ -27,6 +27,12 @@ The objective was to explore differences in air pollution between years, monitor
 
 ---
 
+## Dataset
+
+The datasets used in this project are publicly available air quality monitoring data published by the London Borough of Tower Hamlets. They contain nitrogen dioxide (NO₂) concentrations measured using diffusion tube monitoring sites during 2023 and 2024.
+
+---
+
 ## Repository Contents
 
 ```
